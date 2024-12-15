@@ -1,5 +1,5 @@
 <?php
-	include 'includes/autoLoader.php';
+	
 ?>
 <!doctype html>
 <html lang="en">
